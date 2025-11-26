@@ -1,0 +1,19 @@
+(+) Les 5 phases principales d'un projet web (les étapes) :
+
+        1) Analyse des besoins
+
+        2) Conception / Maquettage
+
+        3) Développement
+
+        4) Tests et corrections
+
+        5) Mise en ligne et maintenance
+
+(+) La création d’un wireframe se fait avant le développement car :
+        - Elle permet de visualiser la structure et le layout du site
+        - Elle facilite la communication avec l’équipe et le client.
+        - Elle réduit les erreurs en validant la structure avant de coder.
+
+(+) Shema : 
+    Analyse -> Conception -> Développement -> Tests -> Mise en ligne

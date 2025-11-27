@@ -1,0 +1,13 @@
+Balsamiq :
+
+    (+) Très simple et rapide à utiliser
+    (+) Idéal pour faire des wireframes de base (croquis)
+    (–) Pas adapté pour du design final
+    (–) Peu ou pas d’interactions / prototypes avancés
+
+Adobe XD :
+
+    (+) Permet de créer des maquettes de haute qualité
+    (+) Permet de faire des prototypes interactifs (clics, transitions)
+    (–) Plus complexe que Balsamiq
+    (–) Demande plus de temps pour obtenir un résultat
